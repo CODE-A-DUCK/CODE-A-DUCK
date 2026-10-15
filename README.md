@@ -15,7 +15,7 @@ If you have any questions about me [contact me](https://me.codeaduck.uk)!
 
 我是 CODE-A-DUCK
 
-- 目前在亚太科技大学就读信息科技软体工程(本科)，于 2026 年入学。
+- 目前在亚太科技大学就读信息科技软体工程(专科)，于 2026 年入学。
 - 对网页端全栈， AI 工程，AI 交付端感兴趣。
 
 小故事：
